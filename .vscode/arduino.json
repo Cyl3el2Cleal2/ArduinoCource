@@ -1,0 +1,5 @@
+{
+    "programmer": "ArduinoISP.org",
+    "board": "arduino:megaavr:uno2018",
+    "configuration": "mode=on"
+}
